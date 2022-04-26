@@ -8,7 +8,7 @@
 - 📊 Qual faixa etária possui menor taxa de adesão à vacina? 
 - Qual etnia menos se vacinou? 👩🏽👨🏻👩🏿👨👩🏼👨🏽
 
-# Grupo ⭐️⭐️⭐️⭐️⭐️:
+# Grupo ⭐️⭐️⭐️⭐️⭐️
 * João Henrique
 * Maria Raquel
 * Max Barbosa
