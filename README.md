@@ -13,5 +13,5 @@
 * [Maria Raquel](https://github.com/maria-raquel)
 * [Max Barbosa](https://github.com/maxbarbosa)
 
-# Referências
+# Referências 📖
 * 🖱️ [Open Data SUS](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIPNI/COVID/uf/uf%3DPB/part-00002-348ec44a-7718-4646-b48f-b36ac28895f2.c000.csv) 🏥
