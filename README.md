@@ -9,9 +9,9 @@
 - Qual etnia menos se vacinou? 👩🏽👨🏻👩🏿👨👩🏼👨🏽
 
 # Grupo ⭐️⭐️⭐️⭐️⭐️
-* [João Henrique](github.com/joaoh224488)
-* [Maria Raquel](github.com/maria-raquel)
-* [Max Barbosa](github.com/maxbarbosa)
+* [João Henrique](https://github.com/joaoh224488)
+* [Maria Raquel](https://github.com/maria-raquel)
+* [Max Barbosa](https://github.com/maxbarbosa)
 
 # Referências
 * 🖱️ [Open Data SUS](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIPNI/COVID/uf/uf%3DPB/part-00002-348ec44a-7718-4646-b48f-b36ac28895f2.c000.csv) 🏥
