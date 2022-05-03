@@ -14,4 +14,4 @@
 * [Max Barbosa](https://github.com/maxbarbosa)
 
 # Referências 📖
-* 🖱️ [Open Data SUS](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIPNI/COVID/uf/uf%3DPB/part-00002-68af70f0-3ada-4784-a75a-9d782a28f6be.c000.csv) 🏥
+* 🖱️ [Open Data SUS](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIPNI/COVID/uf/uf%3DPB/part-00002-41880971-a79c-4f95-8b53-9634f7879d88.c000.csv) 🏥
