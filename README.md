@@ -10,6 +10,8 @@
 
 # Título: COVID-19 - Casos, mortes, vacinas na Paraíba, 2022
 
+# Professor: [Yuri Malheiros](https://github.com/yurimalheiros)
+
 # Grupo ⭐️⭐️⭐️⭐️⭐️
 * [João Henrique](https://github.com/joaoh224488)
 * [Maria Raquel](https://github.com/maria-raquel)
