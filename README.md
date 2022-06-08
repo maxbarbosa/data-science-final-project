@@ -8,6 +8,8 @@
 - 📊 Qual faixa etária possui menor taxa de adesão à vacina? 
 - Qual etnia menos se vacinou? 👩🏽👨🏻👩🏿👨👩🏼👨🏽
 
+# Título: COVID-19 - Casos, mortes, vacinas na Paraíba, 2022
+
 # Grupo ⭐️⭐️⭐️⭐️⭐️
 * [João Henrique](https://github.com/joaoh224488)
 * [Maria Raquel](https://github.com/maria-raquel)
