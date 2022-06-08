@@ -1,4 +1,4 @@
-<h1 align="center">📚️ Projeto final - ICD 💉</h1>
+<h1 align="center">📚️ Projeto final - Introdução à Ciência de Dados 💉</h1>
 <br>
 <p align="center"><img src="https://www.camara.leg.br/midias/image/2020/10/img20201022140139807-768x512.jpg" width="50%" height="50%"/></p>
 
