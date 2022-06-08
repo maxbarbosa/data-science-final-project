@@ -15,3 +15,4 @@
 
 # Referências 📖
 * 🔎 [Open Data SUS](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/10aed154-04c8-4cf4-b78a-8f0fa1bc5af4) 🏥
+* 🔎 [Brasil.IO](https://brasil.io/covid19/PB) 🏥
