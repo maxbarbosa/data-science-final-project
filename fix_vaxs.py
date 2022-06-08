@@ -11,4 +11,14 @@ def rename_vax():
 def update_vax_code():
     vax_df.loc[vax_df.vacina_codigo == 89, 'vacina_codigo'] = 85
     vax_df.loc[vax_df.vacina_codigo == 98, 'vacina_codigo'] = 86
-    
+
+# def rename_doses():
+    # corrigir 
+
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == 'Reforço', 'vacina_descricao_dose'] = '2ª Dose'
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == 'Dose', 'vacina_descricao_dose'] = 'Dose única'
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == 'Dose Adicional', 'vacina_descricao_dose'] = '2ª Dose'
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == '2º Reforço', 'vacina_descricao_dose'] = '3ª Dose'
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == 'Dose Inicial', 'vacina_descricao_dose'] = '1ª Dose'
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == '2ª Dose Revacinação', 'vacina_descricao_dose'] = '2ª Dose'
+    # vax_df.loc[vax_df.vacina_descricao_dose	 == 'Única', 'vacina_descricao_dose'] = 'Dose única'
