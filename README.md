@@ -19,4 +19,6 @@
 
 # Referências 📖
 * 🔎 [Open Data SUS](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/10aed154-04c8-4cf4-b78a-8f0fa1bc5af4) 🏥
-* 🔎 [Brasil.IO](https://brasil.io/covid19/PB) 🏥
+* 🔎 [Brasil.IO](https://brasil.io/covid19/PB)
+* 🔎 [IBGE](https://ftp.ibge.gov.br/Pib_Municipios/2019/base/base_de_dados_2010_2019_xls.zip)
+* 🔎 [IBGE](https://cidades.ibge.gov.br/brasil/sintese/pb?indicadores=29168)
