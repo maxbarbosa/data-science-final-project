@@ -21,7 +21,7 @@ Dessa forma é inviável corrigir uma célula que esteja localizada além do lim
       split -l 1048576 dados_vacinacao.csv 
 
 ### 📝 Altere os nomes dos arquivos
-O comando da linha anterior gerou 3 novos arquivos a partir do dataset original, respectivamente __xaa__, __xab__ e  __xac__, 
+O comando da linha anterior gera 3 novos arquivos a partir do dataset original, respectivamente __xaa__, __xab__ e  __xac__, 
 agora iremos chamá-los __pb1.csv__, __pb2.csv__ e __pb3.csv__
 
 ### Verificando qual(is) célula(s) apresenta(m) mais de um valor:
