@@ -1,7 +1,6 @@
 <h1 align="center">🤔 Motivação </h1>
 
-Ao baixar o dataset diretamente do site [Open Data SUS](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/10aed154-04c8-4cf4-b78a-8f0fa1bc5af4)
-, o mesmo pode vir com algumas células incoerentes.
+Ao baixar o dataset diretamente da plataforma [Open Data SUS](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/10aed154-04c8-4cf4-b78a-8f0fa1bc5af4), o mesmo pode vir com algumas células incoerentes.
 Tal fato ocasiona um bug quando o pandas lê o arquivo csv e encontra
 mais de um valor para a mesma célula. Para corrigir esse erro, basta realizar a seguinte sequência de passos no Mac OS e Linux:
 
