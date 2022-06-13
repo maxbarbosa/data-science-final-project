@@ -38,7 +38,7 @@ Ao executar o código do passo anterior, você receberá o seguinte erro como sa
 
 `ParserError: Error tokenizing data. C error: Expected 1 fields in line XXXXX, saw 2`
 
-Na qual a linha da célula com erro é apontadada no lugar da sequência de 'X' e X é úm número.<br>
+Na qual a linha da célula com erro é apontadada no lugar da sequência de 'X', onde X é úm número de 0 a 9.<br>
 
 Então, utilizando seu programa de edição e visualização de planilhas, basta acessar célula *AXXXXX* e em seguida corrigir a célula que possui 2 valores.
 
