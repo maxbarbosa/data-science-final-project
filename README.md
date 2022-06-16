@@ -2,7 +2,7 @@
 <br>
 <p align="center"><img src="https://www.camara.leg.br/midias/image/2020/10/img20201022140139807-768x512.jpg" width="50%" height="50%"/></p>
 
-# Perguntas❓️❓️❓️
+# Perguntas
 
 - Como os municípios da Paraíba lidaram com a pandemia? Alguns tiveram uma pandemia mais leve do que outros, em questão de quantidade de casos e mortes? Como eles se comparam entre si e com o restante do Brasil?
 - Fatores geográficos e econômicos - como população absoluta, densidade demográfica e PIB - influenciam o quadro da COVID-19 entre os municípios paraibanos?
