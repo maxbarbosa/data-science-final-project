@@ -4,9 +4,9 @@
 
 # Perguntas❓️❓️❓️
 
-- 📈 Qual município paraibano possui maior percentual populacional imunizado? 
-- 📊 Qual faixa etária possui menor taxa de adesão à vacina? 
-- Qual etnia menos se vacinou? 👩🏽👨🏻👩🏿👨👩🏼👨🏽
+- Como os municípios da Paraíba lidaram com a pandemia? Alguns tiveram uma pandemia mais leve do que outros, em questão de quantidade de casos e mortes? Como eles se comparam entre si e com o restante do Brasil?
+- Fatores geográficos e econômicos - como população absoluta, densidade demográfica e PIB - influenciam o quadro da COVID-19 entre os municípios paraibanos?
+- Como foi a adesão do povo paraibano à vacina, entre os diferentes grupos étnicos, faixas etárias, e gêneros?
 
 # Título: COVID-19 - Casos, mortes, vacinas na Paraíba, 2022
 
@@ -14,7 +14,7 @@
 
 # Grupo ⭐️⭐️⭐️⭐️⭐️
 * [João Henrique](https://github.com/joaoh224488)
-* [Maria Raquel](https://github.com/maria-raquel)
+* [Maria Raquel Martinez](https://github.com/maria-raquel)
 * [Max Barbosa](https://github.com/maxbarbosa)
 
 # Referências 📖
