@@ -7,9 +7,9 @@
 # Professor: [Yuri Malheiros](https://github.com/yurimalheiros)
 
 # Grupo
-* [João Henrique de Araujo](https://github.com/joaoh224488)
+* [João Henrique de Araújo](https://github.com/joaoh224488)
 * [Maria Raquel Martinez](https://github.com/maria-raquel)
-* [Max Barbosa](https://github.com/maxbarbosa)
+* [Maxwel Barbosa](https://github.com/maxbarbosa)
 
 # Perguntas
 
