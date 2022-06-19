@@ -14,7 +14,7 @@
 # Perguntas
 
 - Como foi o quadro da COVID-19 no Estado da Paraíba? Alguns municípios tiveram uma pandemia mais leve do que outros, em questão de quantidade de casos e mortes? Como eles se comparam entre si e com o restante do Brasil?
-- Fatores geográficos e econômicos - como população absoluta, densidade demográfica e PIB - influenciam o quadro da COVID-19 entre os municípios paraibanos?
+- Fatores geográficos e econômicos, como população absoluta, densidade demográfica e PIB, influenciam o quadro da COVID-19 entre os municípios paraibanos?
 - Como foi a adesão do povo paraibano à vacina, entre os diferentes grupos étnicos, faixas etárias, e gêneros?
 
 # Dados 📖
