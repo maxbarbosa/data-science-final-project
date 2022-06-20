@@ -1,7 +1,7 @@
 <h1 align="center">📚️ Projeto final - Introdução à Ciência de Dados 💉</h1>
 <br>
 
-# A pandemia na Paraíba - uma análise dos casos, mortes e vacinas
+# A pandemia na Paraíba: uma análise dos casos, mortes e vacinas
 
 <p align="center"><img src="https://www.camara.leg.br/midias/image/2020/10/img20201022140139807-768x512.jpg" width="80%" height="50%"/></p>
 
